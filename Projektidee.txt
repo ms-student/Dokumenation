@@ -1,0 +1,13 @@
+Zeitplaner
+
+- hilft die Woche zu planen
+- Uni, Arbeit, Freizeit, Sport usw unter einen Hut zu bekommen
+- Überblick behalten
+- Felder/Buttons sind mit Themen versehen
+- der Nutzer ordnet diese in Tabelle/Raster an
+- Termine können nicht eingehalten werden
+  => Programm:
+	 - bestätigt Termine/Eingabe
+	 - zeigt Möglichkeiten an
+	 - verschiebt Felder woanders hin
+	 - nimmt Änderungen vor
