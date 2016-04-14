@@ -16,6 +16,8 @@ Zeitplaner
 	 
 === Feedback Alpers, 2016-04-14 ===
 
+Zunächst ein formaler Hinweis: Sie haben Ihr Repository Dokumentation genannt und dann diese Projektbeschreibung direkt ins Repository gestellt. Es gab für die Bezeichnung des Repositories keine Vorgabe, aber Sie sollten innerhalb des Repositories ein Verzeichnis Dokumentation erstellen, in dem Sie diese Datei speichern. Bitte ändern Sie das noch ab.
+
 Leider beschreibt Ihr Vorschlag keine gute Projektidee im Sinne einer interaktiven Anwendung, weil es sich um eine Datenbankanwendung handelt. Das bedeutet, dass es bei der Umsetzung Ihres Projekts vorrangig darum geht, das NutzerInnen Texte (und ggf. Dateien) hochladen können und sich diese anzeigen lassen können. 
 
 Ergänzung seit dem 14. April: Anders formuliert: Was Sie vorschlagen ist eine EVA-Anwendung:
