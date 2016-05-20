@@ -1,4 +1,4 @@
-==========================================
+﻿==========================================
 === Projektidee ms-student, 2016-05-11 ===
 ==========================================
 
@@ -22,7 +22,22 @@
 	- Raub: Beuteplättchen werden entwendet
 	- Hieb: Beuteplättchen werden von der Charakterkarte auf die Waggons verschoben
 - Sieger (reichste Spieler): Beuteplättchen werden addiert
-	 
+
+<!-- Spielablauf Version 2 -->
+
+- der Spieler kann sich einloggen (Spielername, Passwort)
+- er kann die Spieleranzahl wählen (2-6)
+- danach wählt er eine Charakterkarte
+- es handelt sich um ein Multiplayer Spiel
+- Planung: der Spieler kann zwischen 6 Aktionen wählen
+- Ausführen: er sieht die Aktion des vorherigen Spielers und kann dementsprechend reagieren und seine nächste Aktion(Karte) 
+  wählen
+- Kommunikation zwischen den Spielern: es wird immer wieder soetwas wie eine "Umfrage" gestartet
+- der Spieler gibt an, wo er sich auf den Waggons befindet und welche Karten er noch besitzt, den Mitspielern wird dies
+  angezeigt und diese können dann dementsprechend reagieren 
+- der Besitz des Spielers wird ausgegeben und er kann je nach Aktion auswählen, welche Beute er abgeben möchte
+- Sieger: der Spieler gibt die Menge seiner Beute ein und erhält dann eine Rangliste
+
 ==========================================
 === Projektidee ms-student, 2016-04-05 ===
 ==========================================
