@@ -24,16 +24,18 @@
 - Sieger (reichste Spieler): Beuteplättchen werden addiert
 
 <!-- Spielablauf Version 2 -->
+(komplett überarbeitet, bitte einmal anschauen, danke)
 
 - der Spieler kann sich einloggen (Spielername, Passwort)
 - er kann die Spieleranzahl wählen (2-6)
 - danach wählt er eine Charakterkarte
 - es handelt sich um ein Multiplayer Spiel
 - Planung: der Spieler kann zwischen 6 Aktionen wählen
+- die Aktionen werden automatisch gespeichert
 - Ausführen: er sieht die Aktion des vorherigen Spielers und kann dementsprechend reagieren und seine nächste Aktion(Karte) 
   wählen
 - Kommunikation zwischen den Spielern: es wird immer wieder soetwas wie eine "Umfrage" gestartet
-- die Aktionen werden automatisch gespeichert
+- der Spieler gibt an, wo er sich auf den Waggons befindet und welche Karten er noch besitzt, dies wird gespeichert und den Mitspielern
   angezeigt und diese können dann dementsprechend reagieren 
 - der Besitz des Spielers wird ausgegeben und er kann je nach Aktion auswählen, welche Beute er abgeben möchte
 - Sieger: der Spieler gibt die Menge seiner Beute ein und erhält dann eine Rangliste
