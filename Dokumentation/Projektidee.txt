@@ -33,7 +33,7 @@
 - Ausführen: er sieht die Aktion des vorherigen Spielers und kann dementsprechend reagieren und seine nächste Aktion(Karte) 
   wählen
 - Kommunikation zwischen den Spielern: es wird immer wieder soetwas wie eine "Umfrage" gestartet
-- der Spieler gibt an, wo er sich auf den Waggons befindet und welche Karten er noch besitzt, den Mitspielern wird dies
+- die Aktionen werden automatisch gespeichert
   angezeigt und diese können dann dementsprechend reagieren 
 - der Besitz des Spielers wird ausgegeben und er kann je nach Aktion auswählen, welche Beute er abgeben möchte
 - Sieger: der Spieler gibt die Menge seiner Beute ein und erhält dann eine Rangliste
