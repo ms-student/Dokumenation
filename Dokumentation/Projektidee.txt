@@ -113,6 +113,25 @@ Wertung 2: Projektbeschreibung: gesamt: 3 / 10
 - Voraussetzung bekannten Wissens: 0 
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
 
-=====================
-=== Feedback Ende ===
-=====================
+===================================
+=== Feedback Alpers, 2016-06-17 ===
+===================================
+
+Sehr gute Zusammenfassung des Spiels.
+
+Auch die einzelnen Punkte in der etwas ausführlicheren Beschreibung sind knapp und übersichtlich. Einzig die Umfrage ist nicht ganz klar: Da das Spiel ja die Position der Spieler, ihre Karten usw. kennt brauchen die Spieler diese ja nicht extra zu nennen. Oder soll es möglich sein, zu lügen? Das gleiche gilt für die Highscore-Liste: Das Spiel "kennt" die Beute jedes Spielers, also brauchen Spieler hier keine Eingabe zu machen, damit eine Highscore-Liste erzeugt werden kann.
+
+Nächste Frage: Sollen die Spieler die Positionen der übrigen Spieler nicht ständig sehen? Sprich, sollen Sie zeitweilig im Unklaren sein, wo sich die übrigen Spieler befinden?
+
+Insgesamt ist es momentan schwer, aus der Beschreibung die strukturellen Elemente abzuleiten, da Sie hier teilweise (zumindest beim ersten Teil der Entwurfs) Begriffe des Brettspiels verwenden (Stichworte: Karten ziehen, Plättchen verschieben, ...) Hieran sollten Sie nochmal arbeiten. Denken Sie dabei vielleicht an die strukturellen Elemente, die Sie in der Veranstaltung kennen gelernt haben, bzw. werfen Sie nochmal einen Blick ins Skript zu HTML.
+
+Leider fehlt momentan auch die Beschreibung der Interaktion zwischen Spielern und Spiel. Dazu hatte ich ja beim letzten Feedback schon einen Absatz eingefügt, der den Begriff Interaktion nochmal genauer beschreibt.
+
+Setzen Sie sich aber unabhängig davon bitte schon an die Entwicklung der strukturellen Elemente, der Gruppen und der Ansichten.
+
+Wertung 2: Projektbeschreibung: gesamt: 5 / 10
+- Pro Interaktionsmöglichkeit: (momentan unklar)
+- Knappe aber klare Beschreibung: 5
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: 0 
