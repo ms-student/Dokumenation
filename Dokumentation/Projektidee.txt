@@ -24,7 +24,6 @@
 - Sieger (reichste Spieler): Beuteplättchen werden addiert
 
 <!-- Spielablauf Version 2 -->
-(komplett überarbeitet, bitte einmal anschauen, danke)
 
 - der Spieler kann sich einloggen (Spielername, Passwort)
 - er kann die Spieleranzahl wählen (2-6)
@@ -39,6 +38,16 @@
   angezeigt und diese können dann dementsprechend reagieren 
 - der Besitz des Spielers wird ausgegeben und er kann je nach Aktion auswählen, welche Beute er abgeben möchte
 - Sieger: der Spieler gibt die Menge seiner Beute ein und erhält dann eine Rangliste
+
+<!-- Spielablauf Version 3 -->
+- Log-In (Spielername, Passwort)
+- Nutzer spielt gegen andere viruelle Spieler (Banditen)
+- und gegen den Computer (Marshal)
+- Nutzer läuft über oder durch Waggons und sammelt dabei Beute ein (diese wird gespeichert)
+- Mitspieler und Marshal hindern ihn daran
+- Nutzer wählt mit bedacht die Laufrichtung (hoch, runter, links, rechts), den als Reaktion darauf kann er die Beute oder einen Hieb oder Schuss erhalten
+- am Ende wird die Beute verglichen und der Spieler mit der meisten Beute ist der Gewinner
+- Highscore-Liste wird ausgegeben
 
 ==========================================
 === Projektidee ms-student, 2016-04-05 ===
