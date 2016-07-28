@@ -41,10 +41,10 @@
 
 <!-- Spielablauf Version 3 -->
 - Log-In (Spielername, Passwort)
-- Nutzer spielt gegen andere viruelle Spieler (Banditen)
+- Nutzer spielt gegen andere virtuelle Spieler (Banditen)
 - und gegen den Computer (Marshal)
 - Nutzer läuft über oder durch Waggons und sammelt dabei Beute ein (diese wird gespeichert)
-- Mitspieler und Marshal hindern ihn daran
+- Mitspieler und Marshal hindern ihn daran, durch Hiebe und Schüsse
 - Nutzer wählt mit bedacht die Laufrichtung (hoch, runter, links, rechts), den als Reaktion darauf kann er die Beute oder einen Hieb oder Schuss erhalten
 - am Ende wird die Beute verglichen und der Spieler mit der meisten Beute ist der Gewinner
 - Highscore-Liste wird ausgegeben
