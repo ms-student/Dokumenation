@@ -10,6 +10,16 @@
   Es wird aufeinander geschossen oder Hiebe ausgeübt.
   In Acht nehmen müssen sich die einzelnen Banditen vor dem Marshal und anderen Mitspielern, daher muss jeder einzelne Spielzug gut bedacht sein.
   
+<!-- Spielablauf Version 3 -->
+- Log-In (Spielername, Passwort)
+- Nutzer spielt gegen andere virtuelle Spieler (Banditen)
+- und gegen den Computer (Marshal)
+- Nutzer läuft über oder durch Waggons und sammelt dabei Beute ein (diese wird gespeichert)
+- Mitspieler und Marshal hindern ihn daran, durch Hiebe und Schüsse
+- Nutzer wählt mit bedacht die Laufrichtung (hoch, runter, links, rechts), den als Reaktion darauf kann er die Beute oder einen Hieb oder Schuss erhalten
+- am Ende wird die Beute verglichen und der Spieler mit der meisten Beute ist der Gewinner
+- Highscore-Liste wird ausgegeben
+
 <!-- Spielablauf --> 
 
 - 6 Karten werden gezogen (Handkarten)
@@ -38,16 +48,6 @@
   angezeigt und diese können dann dementsprechend reagieren 
 - der Besitz des Spielers wird ausgegeben und er kann je nach Aktion auswählen, welche Beute er abgeben möchte
 - Sieger: der Spieler gibt die Menge seiner Beute ein und erhält dann eine Rangliste
-
-<!-- Spielablauf Version 3 -->
-- Log-In (Spielername, Passwort)
-- Nutzer spielt gegen andere virtuelle Spieler (Banditen)
-- und gegen den Computer (Marshal)
-- Nutzer läuft über oder durch Waggons und sammelt dabei Beute ein (diese wird gespeichert)
-- Mitspieler und Marshal hindern ihn daran, durch Hiebe und Schüsse
-- Nutzer wählt mit bedacht die Laufrichtung (hoch, runter, links, rechts), den als Reaktion darauf kann er die Beute oder einen Hieb oder Schuss erhalten
-- am Ende wird die Beute verglichen und der Spieler mit der meisten Beute ist der Gewinner
-- Highscore-Liste wird ausgegeben
 
 ==========================================
 === Projektidee ms-student, 2016-04-05 ===
@@ -122,6 +122,45 @@ Wertung 2: Projektbeschreibung: gesamt: 3 / 10
 - Voraussetzung bekannten Wissens: 0 
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
 
-=====================
-=== Feedback Ende ===
-=====================
+===================================
+=== Feedback Alpers, 2016-10-19 ===
+===================================
+
+=== 1.) Formales
+
+== 1.1.) Zu diesem Dokument
+
+Oben haben Sie drei Beschreibungen des Ablaufs. Hier gehe ich davon aus, dass die Versionen 1 und 2 veraltet sind. Deshalb habe ich die Version 3 nach vorne verschoben. Wenn diese Version nicht alles enthält, dann fassen Sie bitte alles in einer neuen Version zusammen, das dort hinein gehört und fügen diese an den Anfang.
+
+== 1.2.) Stichpunktcharakter
+
+Sie haben die Beschreibung in knappen Stichpunkten zusammengefasst, nachdem Sie das Spiel in einer knappen Zusammenfassung umrissen haben. Das ist gut.
+
+=== 2.) Inhaltliches
+
+Das folgende bezieht sich wie eingangs angedeutet nicht auf die Versionen 1 und 2.
+
+== 2.1.) Umfang
+
+Leider ist Ihre Beschreibung noch deutlich zu wenig umfangreich. Denn bislang beschränkt sich die eigentliche Beschreibung, dessen, was Teil des Spiels ist auf folgende Punkte:
+
+- Nutzer bewegt Charakter (hoch, runter, links, rechts)
+- Nutzer kann Gegner angreifen.
+- Nutzer kann Wertgegenstände/Geld aufsammeln.
+
+Dazu gibt es noch:
+
+- Log-In (Spielername, Passwort)
+- Highscore-Liste
+
+Sowie:
+
+- Es gibt einen computergesteuerten Charakter, den Marshal. (Gleiche Möglichkeiten wie alle Nutzer.)
+
+== 2.2.) Zusammenfassung
+
+Im aktuellen Zustand gibt es kaum eine Möglichkeit für ein Feedback, weil Ihre Beschreibung kaum Inhalt hat. Es ist aus dieser Beschreibung noch kaum etwas an strukturellen Elementen ableitbar, denn abgesehen von der Highscore-Liste und dem Log-In haben Sie ja noch kaum etwas notiert, das als Basis für eine Struktur dienen kann.
+
+Um hier ein Beispiel zu nennen: Sie geben an, dass Spieler den Charakter bewegen können. Aber wie sieht beispielsweise die Umgebung aus, in der der Charakter sich befindet? Wird der Punktestand angezeigt? Sehen die Spieler noch etwas außer dem Spielfeld?
+
+Die Wertung bleibt damit für die Beschreibung unverändert.
